@@ -1,0 +1,27 @@
+{
+  "name": "clear-file",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "keywords": [
+    "node",
+    "file",
+    "clear"
+  ],
+  "author": "smallmonsters <34727387+smallmonsters@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/clear-file.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/clear-file.test.js"
+  }
+}
