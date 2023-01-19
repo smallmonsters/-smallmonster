@@ -1,16 +1,18 @@
 {
-  "name": "clear-file",
+  "name": "clean-file",
   "version": "0.0.1",
-  "description": "> TODO: description",
+  "description": "clean files",
   "keywords": [
     "node",
     "file",
-    "clear"
+    "clean"
   ],
-  "author": "smallmonsters <34727387+smallmonsters@users.noreply.github.com>",
+  "author": "smallmonsters",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/clear-file.js",
+  "bin": {
+    "cleanFile": "bin/cleanFile.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +24,9 @@
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
-    "test": "node ./__tests__/clear-file.test.js"
+    "test": "node ./__tests__/clean-file.test.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
