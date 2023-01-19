@@ -21,7 +21,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/clean-file.test.js"
@@ -29,5 +29,5 @@
   "dependencies": {
     "commander": "^10.0.0"
   },
-  "gitHead": "aa33c68e71308928dc3f2c9148abef46eb632cd7"
+  "gitHead": "71e498fab44e8f1a91720085956a56a88cb89178"
 }
