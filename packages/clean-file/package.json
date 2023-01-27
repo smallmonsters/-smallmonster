@@ -30,5 +30,6 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
-  }
+  },
+  "gitHead": "561372852df750a7b8b28c7f43247bd9ab3f3cd9"
 }
