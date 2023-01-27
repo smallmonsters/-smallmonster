@@ -1,6 +1,6 @@
 {
   "name": "@smallmonster/clean-file",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "clean files",
   "keywords": [
     "node",
@@ -31,5 +31,5 @@
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
   },
-  "gitHead": "10fe7c0df8819cd15d51544b234294284af729ae"
+  "gitHead": "90408cfba9b906729f810e2532d4d7f5bb47d956"
 }
