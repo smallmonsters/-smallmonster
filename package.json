@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "jest": "^29.4.1",
     "lerna": "^6.4.1"
   }
 }

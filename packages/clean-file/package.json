@@ -24,9 +24,11 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "test": "node ./__tests__/clean-file.test.js"
+    "test": "node ./__tests__/index.test.js",
+    "jest": "jest"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^10.0.0"
   },
   "gitHead": "10fe7c0df8819cd15d51544b234294284af729ae"
