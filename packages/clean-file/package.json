@@ -1,6 +1,6 @@
 {
   "name": "@smallmonster/clean-file",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "clean files",
   "keywords": [
     "node",
@@ -21,8 +21,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "access": "public"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/index.test.js",
@@ -31,6 +30,5 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
-  },
-  "gitHead": "2ff4581ed00cdc25b5126716dac91ebe6bb3932b"
+  }
 }
