@@ -1,6 +1,6 @@
 # clean-file
 
-- [clean-file](#clean-file)
+<!-- - [clean-file](#clean-file)
   - [使用](#使用)
   - [option](#option)
     - [-f](#-f)
@@ -29,4 +29,4 @@
 
 删除前，二次确认
 
-> cleanFile -c --confirm  args
+> cleanFile -c --confirm  args -->
