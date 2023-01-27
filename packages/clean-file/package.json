@@ -21,7 +21,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "node ./__tests__/index.test.js",
@@ -31,5 +32,5 @@
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
   },
-  "gitHead": "840a9f3b1855dcc414826592204d45d4cc07bed6"
+  "gitHead": "51467b2c4398ba797099eb2bbb09e26d4791e728"
 }
