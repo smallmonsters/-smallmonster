@@ -1,5 +1,5 @@
 {
-  "name": "clean-file",
+  "name": "clean-file-test",
   "version": "0.0.5",
   "description": "clean files",
   "keywords": [
@@ -32,5 +32,5 @@
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
   },
-  "gitHead": "d504ab218c7a7b0b33945492a6f079d4256a0429"
+  "gitHead": "8256a717a2e988a258a6d5d810f15672e699513d"
 }
