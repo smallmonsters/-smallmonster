@@ -1,6 +1,6 @@
 {
   "name": "@smallmonster-util/clean-file",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "description": "clean files",
   "keywords": [
     "node",
