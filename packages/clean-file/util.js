@@ -8,5 +8,5 @@ const createFolder = async (_path) => {
 }
 
 module.exports = {
-  createFolder,
+  createFolder
 }
