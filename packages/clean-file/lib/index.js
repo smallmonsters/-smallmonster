@@ -20,7 +20,6 @@ const error = chalk.bold.red;
  * **/
 const deleteDir = (_path) => {
   const res = fs.lstatSync(_path, { throwIfNoEntry: false })
-  console.log(res, _path);
   if (res) {
     if (res.isDirectory()) {
       fs.rmSync(_path, { recursive: true, force: true })

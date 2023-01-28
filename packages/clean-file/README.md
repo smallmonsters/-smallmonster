@@ -9,7 +9,7 @@
 
 ## 使用
 
-> npm i -g @smallmonster/clean-file  
+> npm i -g @smallmonster-util/clean-file  
 > 删除单个文件夹：cleanFile dirName[,dirName1]
 
 ## option

@@ -42,7 +42,6 @@ beforeAll(async () => {
   } catch (err) {
     console.log(error("创建测试目录失败：" + err));
   }
-
 });
 
 
