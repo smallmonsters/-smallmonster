@@ -1,5 +1,5 @@
 {
-  "name": "clean-file-test",
+  "name": "@smallmonster-util/clean-file",
   "version": "0.0.7",
   "description": "clean files",
   "keywords": [
@@ -32,5 +32,5 @@
     "chalk": "^4.1.2",
     "commander": "^10.0.0"
   },
-  "gitHead": "836c03454fc96e4f82ed5308594eecad6cadf4c8"
+  "gitHead": "565592a723c0569882619d0d9d02f089e348041c"
 }
